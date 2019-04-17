@@ -1,3 +1,5 @@
+mod c552d3;
+
 fn main() {
-    println!("Hello, world!");
+    c552d3::b::main();
 }
